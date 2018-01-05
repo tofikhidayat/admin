@@ -55,7 +55,7 @@ function closeleft() {
 
 
 function devault() {
-$(".bg_header").css("background-color", "#3C8DBC");
+$(".bg_header").css("background-color", "#FF7A5A");
 }
 function red() {
 $(".bg_header").css("background-color", "#E53935");

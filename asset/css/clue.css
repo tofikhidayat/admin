@@ -100,6 +100,10 @@ h1 , h2 , h3 , h4, h5 ,h6 ,label ,span
 {
 	padding-top: 0px;
 }
+.pt-05
+{
+  padding-top: 5px;
+}
 .pt-15
 {
   padding-top: 15px;
