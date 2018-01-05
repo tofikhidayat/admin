@@ -827,6 +827,8 @@ body {
   .setting .button-setting {
     background: #2C97DE;
     color: #fff;
+    max-width: 50px;
+    padding-left: 0px;
     border-radius: 2px 0px 0px 2px; }
     .setting .button-setting button {
       font-size: 16px;
