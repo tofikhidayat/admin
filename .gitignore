@@ -1,0 +1,23 @@
+# Created by https://www.gitignore.io/api/batch,executable
+
+### Batch ###
+# BatchFiles
+*.bat
+*.cmd
+*.btm
+*.scss
+
+### Executable ###
+*.app
+*.cgi
+*.com
+*.exe
+*.gadget
+*.jar
+*.pif
+*.vb
+*.sass-cache
+*.scssc
+*.wsf
+*.map
+# End of https://www.gitignore.io/api/batch,executable
