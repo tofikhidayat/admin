@@ -1,5 +1,6 @@
 /*---------mixin------------------*/
 @import url(clue.css);
+@import "http://code.ionicframework.com/ionicons/2.0.1/css/ionicons.min.css";
 /*--------------------end mixin--------------------*/
 /*-------------------sidebar----------------------*/
 .act-title {
